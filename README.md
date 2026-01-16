@@ -54,7 +54,8 @@
 
 ### D1｜02/19（周四）西宁机场 → 青海湖/共和（住共和更稳）
 
-<img src="images/qinghai-lake.jpg" width="400" />
+![D1 青海湖](images/qinghai-lake.jpg)
+_图：D1 青海湖_
 
 - 08:45 抵达曹家堡 T3
 - 09:30–10:30：取车、加油、采购补给（热水/路餐/氧气/纸巾）
@@ -67,7 +68,8 @@
 
 ### D2｜02/20（周五）共和/青海湖 → 茶卡 → 德令哈（住德令哈）
 
-<img src="images/chaka-salt-lake.jpg" width="400" />
+![D2 茶卡盐湖](images/chaka-salt-lake.jpg)
+_图：D2 茶卡盐湖_
 
 - 路线：共和/青海湖 → 茶卡镇（盐湖）→ 德令哈市区
 - 车程：约 300–400 km，4–6 小时（含停留）
@@ -79,7 +81,8 @@
 
 ### D3｜02/21（周六）德令哈 → 大柴旦（翡翠湖）住大柴旦
 
-<img src="images/emerald-lake.jpg" width="400" />
+![D3 翡翠湖](images/emerald-lake.jpg)
+_图：D3 翡翠湖_
 
 - 路线：德令哈 → 大柴旦镇
 - 车程：约 200–300 km，3–4 小时
@@ -103,14 +106,16 @@
 
 上午：莫高窟（强烈建议预约最早时段）
 
-<img src="images/mogao-caves.jpg" width="400" />
+![D5 莫高窟](images/mogao-caves.jpg)
+_图：D5 莫高窟_
 
 - 已核到可用入口：[https://www.mgk.org.cn/](https://www.mgk.org.cn/)（莫高窟预约网首页）
 - 参观咨询电话（页面展示）：`4008-333-715`
 
 下午：鸣沙山月牙泉
 
-<img src="images/crescent-lake.jpg" width="400" />
+![D5 鸣沙山月牙泉](images/crescent-lake.jpg)
+_图：D5 鸣沙山月牙泉_
 
 - 冬季日落很出片，但风可能很大；注意景区冬季开闭园时间。
 
@@ -123,11 +128,13 @@
 - 车程：约 600 km，7–9 小时（含停留）
 - 可选：嘉峪关关城/长城第一墩（视冬季开放）
 
-<img src="images/jiayuguan.jpg" width="400" />
+![D6 嘉峪关](images/jiayuguan.jpg)
+_图：D6 嘉峪关_
 
 - 可选：张掖七彩丹霞（以冬季开放/路况为准；更适合下午早一点进景区，确保天黑前回张掖市区；不建议为丹霞增加夜路）
 
-<img src="images/zhangye-danxia.jpg" width="400" />
+![D6 张掖七彩丹霞](images/zhangye-danxia.jpg)
+_图：D6 张掖七彩丹霞_
 
 住宿建议：张掖市区（甘州区）
 - 目的：为 D7 早出发上高速做准备。
